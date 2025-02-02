@@ -19,8 +19,9 @@
 #define MAX_ON_BRIDGE 15
 #define MAX_ON_SHIP 25
 #define MUTEX 0
-
-#define SIGNAL1_CHANCE 10
+// losowanie szansy na wystąpienie eventów sygnał1 to wczesniejsze wypłynięcie 
+//sygnał2 to zakończenie rejsów, a co się z tym wiąże koniec programów rozgałęzienie na to czy jest w porcie statek czy nie
+#define SIGNAL1_CHANCE 10 
 #define SIGNAL2_CHANCE 2
 
 // Structures
