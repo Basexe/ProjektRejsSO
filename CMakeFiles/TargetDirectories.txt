@@ -1,0 +1,7 @@
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/common.dir
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/projekt.dir
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/KapitanStatku.dir
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/KapitanPortu.dir
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/Pasazer.dir
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/edit_cache.dir
+/mnt/c/Users/barte/Desktop/RejsSochacki/ProjektBartek/bulid/CMakeFiles/rebuild_cache.dir

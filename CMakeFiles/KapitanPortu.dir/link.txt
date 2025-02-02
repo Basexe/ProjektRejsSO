@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/KapitanPortu.dir/KapitanPortu.cpp.o -o KapitanPortu  libcommon.a
